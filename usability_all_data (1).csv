@@ -1,0 +1,217 @@
+participant_id,question_id,question_order_within_participant,question_text,answer_text
+P1,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P1,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?","Computer Engineering, year 4"
+P1,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,No
+P1,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?",
+P1,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,"Confirmation of ordering was fine
+How does the foods maintain its freshness (Uber eats -> When they start buying the food and when they pickup) -> Should mention in the notice part or at first part of the app
+The process of picking up items should be bolded and more clear"
+P1,Q10,6,How would you rate the systems based on this experience?,"5
+Grocery (Not preferred -> There’s so many other grocery apps and don’t know she should use this app)
+Better for the food bank"
+P1,Q11,7,Is there any part that makes you confused or that you just dislike about it?,Confused about grocery ordering and food bank ordering options (Those who do not have guide of builders would not realize the difference between those)
+P1,Q5,8,Anything else that stood out to you? Any suggestions?,Grocery is better for the delievery
+P1,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P1,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?",Yes
+P1,Q21,11,"When you opened the map, did you already know how to use it?",Map should allow zoom in zoom out (UBC students would know)
+P1,Q8,12,Did the map make it easy for you to select a locker location for pickup?,Yes
+P1,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,Yes
+P1,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,Search button is better
+P1,Q15,15,Was it clear what food items you were selecting for checkout within each section?,With picture would be better
+P1,Q17,16,Was it easy to see which items were available in each section?,Yes
+P1,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,Yes Cart number goes up clearly
+P1,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,Yes
+P1,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Yes
+Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P2,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P2,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?","Astronomy, 3rd Year"
+P2,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,Yes
+P2,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?","Depends on the situation, does the demand of food is enough or not"
+P2,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,
+P2,Q10,6,How would you rate the systems based on this experience?,"It would be convenient to have this feature (since going to the store can be annoying).
+It could be good for people who find delivery fees burdensome.
+If bags or boxes are created during pickup, it would be nice to have something like a return box (not sure if people would actually return them, but having one would be good)."
+P2,Q11,7,Is there any part that makes you confused or that you just dislike about it?,"Click add to cart, similar items make confusion, can’t remeber the quantitty of specific items.
+The subtitle text is too small.
+Quantity and price could be clearer.
+It would be nice if items could be added or deleted using “+” and “–” buttons."
+P2,Q5,8,Anything else that stood out to you? Any suggestions?,
+P2,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P2,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?","I came in already knowing it was a shopping app, so it was fine, but it would be easier to understand if you showed some tips and gave enough explanation first."
+P2,Q21,11,"When you opened the map, did you already know how to use it?","When selecting a location or hovering over it on the map, it would be easier to understand if there were a picture showing exactly where it is, rather than just text."
+P2,Q8,12,Did the map make it easy for you to select a locker location for pickup?,Selecting was fine.
+P2,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,Yes
+P2,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,Category was fine
+P2,Q15,15,Was it clear what food items you were selecting for checkout within each section?,"Good
+It would be convenient if there were a re-order feature in the Order History."
+P2,Q17,16,Was it easy to see which items were available in each section?,
+P2,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,"Good
+If there are many items, the current view might become insufficient.
+It would be nice to display them by category (for example, showing certain items under Vegetables, others under Meat, etc.)."
+P2,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,Yes
+P2,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Good
+Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P3,Q1,1,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?",Didn’t document for privacy purposes.
+P3,Q2,2,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,yes
+P3,Q3,3,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?","Food security: people can access food without stress, at all times.
+Food insecurity: people will worry about food at least sometimes.
+Follow-up semi-structured interview questions (wrap-up)"
+P3,Q7,4,Could you please let us know if the confirmation message is sufficiently clear?,Everything is pretty clear.
+P3,Q10,5,How would you rate the systems based on this experience?,"8 out of 10, having categories are great but could have some photo indicator on it to represent the category so customers don’t have to read it.
+Compared to regular grocery store app, this participant said they really like the categories and suggested that it’s necessarily to have a bunch of image and flyers discounts like regular grocery app, this app prevents you buy extra unnecessary food."
+P3,Q12,6,Is there any part that makes you confused or that you just dislike about it? Any Suggestions?,"While navigating through the food bank ordering part, participant mentioned for the food bank survey part, maybe send the survey through email and ask for your personal id to verify, so that people don’t abuse the food bank system.
+If there are more options, then it will be better to have a search button inside each category or just at the category."
+P3,Q19,7,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P3,Q20,8,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?","Yes
+Welcome page should have something that indicates it is picking up from the locker instead of a delivery."
+P3,Q21,9,"When you opened the map, did you already know how to use it?",Clear
+P3,Q8,10,Did the map make it easy for you to select a locker location for pickup?,"I like the addition of the map, big proportion of people at ubc are new, good visuals."
+P3,Q13,11,Was it clear to you when you had confirmed a locker for pickup?,"Participant suggested to make the text “save QR code at locker when pick up” larger and maybe put it into a blue box, so it is clear what’s the purpose of QR code obvious."
+P3,Q9,12,Did the sections in the app make it easy for you to find and select the food items you wanted?,yes
+P3,Q15,13,Was it clear what food items you were selecting for checkout within each section?,yes
+P3,Q17,14,Was it easy to see which items were available in each section?,easy
+P3,Q14,15,Was it clear to you when your selections were successfully added to the checkout bin?,Number popped up!
+P3,Q16,16,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,yes
+P3,Q4,17,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Yes very much so !
+Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P4,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P4,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?",
+P4,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,yes
+P4,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?","Nest bathroom,
+Food insecurity: you don’t have enough food to eat"
+P4,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,yes
+P4,Q10,6,How would you rate the systems based on this experience?,"8 out of 10,  grocery ordering vs food bank ordering (participant thinks that food bank ordering is for donation to the food bank )"
+P4,Q11,7,Is there any part that makes you confused or that you just dislike about it?,"grocery ordering vs food bank ordering (participant thinks that food bank ordering is for donation to the food bank )
+It add to cart button should be more clear"
+P4,Q5,8,Anything else that stood out to you? Any suggestions?,Nothing else
+P4,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P4,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?",Yes (unclear for food bank part)
+P4,Q21,11,"When you opened the map, did you already know how to use it?","Yes,"
+P4,Q8,12,Did the map make it easy for you to select a locker location for pickup?,Yes
+P4,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,Yes
+P4,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,"Theoretically it should be fine, first glance, canned food section is a bit unclear (thought beans was a vegetable)"
+P4,Q15,15,Was it clear what food items you were selecting for checkout within each section?,Yes
+P4,Q17,16,Was it easy to see which items were available in each section?,Yes
+P4,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,"Not really, mentioned above"
+P4,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,Yes
+P4,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Yes and order success page could include items ordered
+Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P5,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P5,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?",
+P5,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,
+P5,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?",
+P5,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,"Yes, pretty clear."
+P5,Q10,6,How would you rate the systems based on this experience?,"Pretty straightforward, what make users use our app more comparing to other app(why pick us not others)"
+P5,Q11,7,Is there any part that makes you confused or that you just dislike about it?,"Placeholder and location icons, quantity things."
+P5,Q5,8,Anything else that stood out to you? Any suggestions?,"Participant likes the checkout flow: very intuitive and efficient. Suggestions: placeholders, location icons and quantity."
+P5,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P5,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?","Yes, overall yes. But there are 2 green leaf, might need more clarification which one to use."
+P5,Q21,11,"When you opened the map, did you already know how to use it?","Not really, Participant thought could interact with the map, but in fact not."
+P5,Q8,12,Did the map make it easy for you to select a locker location for pickup?,"yes, it gave a visualization about the location"
+P5,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,"yes, the participant likes the time"
+P5,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,"Yes, the labels like fruits and vegetables  made it
+clear"
+P5,Q15,15,Was it clear what food items you were selecting for checkout within each section?,yes
+P5,Q18,16,"Was it easy to see which items were available in each section?
+ note: what 'available’ mean?",Not available = grey out
+P5,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,
+P5,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,yes
+P5,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Yes, it shows that pickup info on that page.
+Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P6,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P6,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?",
+P6,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,
+P6,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?",
+P6,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,yes
+P6,Q10,6,How would you rate the systems based on this experience?,Pretty good
+P6,Q11,7,Is there any part that makes you confused or that you just dislike about it?,no
+P6,Q5,8,Anything else that stood out to you? Any suggestions?,Put more vegetables
+P6,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P6,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?","Yes, because participant had used other food ordering app before => positive transfer effect"
+P6,Q21,11,"When you opened the map, did you already know how to use it?","Yes, because participant used google map before, so familiar"
+P6,Q8,12,Did the map make it easy for you to select a locker location for pickup?,yes
+P6,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,yes
+P6,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,yes
+P6,Q15,15,Was it clear what food items you were selecting for checkout within each section?,yes
+P6,Q17,16,Was it easy to see which items were available in each section?,yes
+P6,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,"Yes, the cart shown number of the items added"
+P6,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,yes
+P6,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","yes
+Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P7,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P7,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?",
+P7,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,
+P7,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?",
+P7,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,yes
+P7,Q10,6,How would you rate the systems based on this experience?,"4,.5"
+P7,Q11,7,Is there any part that makes you confused or that you just dislike about it?,"Click add to cart , similar items make confusion, can’t remeber the quantitty of specific items."
+P7,Q5,8,Anything else that stood out to you? Any suggestions?,
+P7,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P7,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?",yes
+P7,Q21,11,"When you opened the map, did you already know how to use it?","Yes,"
+P7,Q8,12,Did the map make it easy for you to select a locker location for pickup?,Yes
+P7,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,"The specific information is not clear, which part of IKB"
+P7,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,Yes
+P7,Q15,15,Was it clear what food items you were selecting for checkout within each section?,Tes
+P7,Q17,16,Was it easy to see which items were available in each section?,Yes
+P7,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,
+P7,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,
+P7,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P8,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P8,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?",
+P8,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,
+P8,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?",
+P8,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,Yes it was clear. But make the confirmation message bigger and the QR code smaller.
+P8,Q10,6,How would you rate the systems based on this experience?,4/5.
+P8,Q11,7,Is there any part that makes you confused or that you just dislike about it?,He didn’t like that you can’t see much confirmation when u add something to the cart.
+P8,Q5,8,Anything else that stood out to you? Any suggestions?,Should be confirmation that the user chooses the item. He liked the map option.
+P8,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",It was straightforward except for the stuff that was not yet implemented. He also mistook the Food Bank option for the Grocery option.
+P8,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?",Yes.
+P8,Q21,11,"When you opened the map, did you already know how to use it?","No he thought he had to click on the map, then he noticed the options were below."
+P8,Q8,12,Did the map make it easy for you to select a locker location for pickup?,Made it easy sure to pin down locations.
+P8,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,He didn’t know he had to pick up from a locker. The locker thing was not clear.
+P8,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,Yes he found the topics well.
+P8,Q15,15,Was it clear what food items you were selecting for checkout within each section?,He said the confirmation when you add something to cart could be better.
+P8,Q17,16,Was it easy to see which items were available in each section?,Yes it was.
+P8,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,"He said this needed work. It wasn’t very clear. Also, he tried to hit the backspace and it removed"
+P8,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,
+P8,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P9,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P9,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?",
+P9,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,
+P9,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?",
+P9,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,
+P9,Q10,6,How would you rate the systems based on this experience?,
+P9,Q11,7,Is there any part that makes you confused or that you just dislike about it?,
+P9,Q5,8,Anything else that stood out to you? Any suggestions?,
+P9,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P9,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?",
+P9,Q21,11,"When you opened the map, did you already know how to use it?",
+P9,Q8,12,Did the map make it easy for you to select a locker location for pickup?,
+P9,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,
+P9,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,
+P9,Q15,15,Was it clear what food items you were selecting for checkout within each section?,
+P9,Q17,16,Was it easy to see which items were available in each section?,
+P9,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,
+P9,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,
+P9,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
+P10,Q6,1,"Before we begin, I want to reiterate what was on the consent form: your participation is completely voluntary. You can choose to skip any question or stop the interview at any time without any penalty. This session will be audio-recorded for analysis, but all information will be kept confidential and anonymized. Do you have any questions for me before we get started?","To start, it would be nice if you could tell us a thing or two about you."
+P10,Q1,2,"1. Could you tell me a bit about yourself? For instance, what are you studying, and what year are you in?",
+P10,Q2,3,2. Have you heard about the term ‘food security’ or ‘food insecurity’?,
+P10,Q3,4,"3. In your own words, what does the term 'food security' or 'food insecurity' mean to you as a UBC student?",
+P10,Q7,5,Could you please let us know if the confirmation message is sufficiently clear?,Yes
+P10,Q10,6,How would you rate the systems based on this experience?,"4.5 --- 0.5 for minor one, the interface is too simple. Not feeling like grocery shopping"
+P10,Q11,7,Is there any part that makes you confused or that you just dislike about it?,"Category, no icons, too wordy"
+P10,Q5,8,Anything else that stood out to you? Any suggestions?,The introduction of grocery and food bank  ordering are not clear doubt about the items are the same or not
+P10,Q19,9,"Were there any difficulties using the app, such as selecting items, scheduling pick-up, or navigating the map, at any point?",
+P10,Q20,10,"When you opened and used the app for the first time, did you feel you knew what steps you needed to take to order food and schedule a pick-up?","Yes, flow the standard procedures."
+P10,Q21,11,"When you opened the map, did you already know how to use it?","Nope, for the map is unclear but the buttons are really clear"
+P10,Q8,12,Did the map make it easy for you to select a locker location for pickup?,As UBC students not really
+P10,Q13,13,Was it clear to you when you had confirmed a locker for pickup?,"Kind of confused because the font are too small, maybe a instruction would be helpful, or some photeos"
+P10,Q9,14,Did the sections in the app make it easy for you to find and select the food items you wanted?,
+P10,Q15,15,Was it clear what food items you were selecting for checkout within each section?,She needs to go to carts to see
+P10,Q17,16,Was it easy to see which items were available in each section?,yes
+P10,Q14,17,Was it clear to you when your selections were successfully added to the checkout bin?,"Yes, since the little red spot message"
+P10,Q16,18,Was it clear when you had successfully completed the checkout and received confirmation of your pick-up time and location?,"Yes, with future development of order history functions, it would be more beneficial"
+P10,Q4,19,"After completing the checkout, did you feel confident that your order and pick-up details were correct?","Yes
+Thank you for all your honest answers today. If there is anything you want to ask or please feel free to let me know; otherwise, that will conclude it. Thanks again for participating."
