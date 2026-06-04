@@ -4,9 +4,10 @@ A mobile app concept that helps UBC students get food conveniently **and** lets
 students facing financial constraints obtain food-bank items at no cost — without
 social stigma. This repository covers the full HCI process: problem framing,
 prototype design, a **task-based usability study with 10 participants**, and a
-data analysis that turned messy survey responses into prioritized design fixes.
+Python data analysis that turned messy survey responses into prioritized design fixes.
 
-🔗 **Interactive prototype (Figma):** _add your Figma link here_
+🔗 **Interactive prototype (Figma):** [Food Bank App Prototype](https://www.figma.com/design/iEuqR15GXceiWvJpPXt5ky/Food-Bank-App-Prototype?node-id=32-482&t=qNqKaoWZ6d0Gfawg-1)
+📓 **Analysis notebook (renders in browser):** [`docs/Final report data analysis.ipynb`](docs/Final%20report%20data%20analysis.ipynb)
 📑 **Demo slides:** [`docs/demo_slides.pdf`](docs/demo_slides.pdf)
 
 ---
@@ -16,7 +17,7 @@ data analysis that turned messy survey responses into prioritized design fixes.
 I **led all of the data analysis** for this team project. I designed the analysis
 approach, wrote the Python (pandas) to clean and code the usability-test data,
 quantified how clear each step of the app felt to users, and synthesized the
-open-ended feedback into the friction themes that drove our design recommendations.
+open-ended feedback into friction themes that drove our design recommendations.
 *(Design and prototyping were a team effort.)*
 
 ---
@@ -38,23 +39,24 @@ and a clean, low-distraction interface with consistent styling for intuitive way
 
 ## The usability study
 
-- **Participants:** 10
-- **Method:** task-based usability test (e.g., place a regular order; place a
-  food-bank order) followed by a structured + open-ended survey
-- **Data:** one row per participant per question (`participant_id`, `question_text`,
-  `answer_text`) — including messy, free-text answers
-- **Mixed methods:** quantitative clarity metrics + qualitative friction coding
+| | |
+|---|---|
+| **Participants** | 10 |
+| **Method** | Task-based usability test + structured/open-ended survey |
+| **Tasks** | Place a regular order; place a food-bank order |
+| **Data** | `participant_id`, `question_text`, `answer_text` — including messy free-text |
+| **Approach** | Mixed methods: quantitative clarity metrics + qualitative friction coding |
 
 ---
 
 ## What the analysis does
 
-**1. Cleaning messy rating data.** Participants wrote ratings every which way
+**1 · Cleaning messy rating data.** Participants wrote ratings every which way
 (`"8 out of 10"`, `"4/5"`, `"4,.5"`, `"4.5 --- 0.5 for..."`). A regex-based parser
-normalizes them all to a 0–10 scale.
+normalises them all to a 0–10 scale.
 
-**2. Perceived ease & clarity at key steps.** For six key questions, the script
-computes the share of participants who gave an explicit "Yes."
+**2 · Perceived ease & clarity at key steps.** For six task steps, the script
+computes the share of participants who explicitly said "Yes."
 
 | Step | Found it clear / easy (n = 10) |
 |---|---|
@@ -67,8 +69,8 @@ computes the share of participants who gave an explicit "Yes."
 
 ![Perceived ease and clarity at key steps](figures/clarity_by_step.png)
 
-**3. Friction analysis.** Open-ended responses are coded into themes by keyword and
-counted across participants.
+**3 · Friction analysis.** Open-ended responses are coded into themes by keyword
+and counted across participants.
 
 | Friction area | Participants mentioning (n = 10) |
 |---|---|
@@ -85,15 +87,12 @@ counted across participants.
 
 ## Key findings → design recommendations
 
-- **Add-to-cart feedback is the #1 fix.** Only **30%** of users were sure when an
-  item was added to the bin, and **5/10** flagged item-quantity/add-to-cart friction.
-  → Add clear visual confirmation (count badge, toast, or animation) on add.
-- **Simplify food-bank verification.** **5/10** mentioned the verification/survey flow
-  as confusing. → Reduce steps and clarify copy so eligible students aren't deterred.
-- **Clarify sections & labels.** **3/10** found categories/labels wordy or unclear.
-  → Tighter category names and clearer icons.
-- **The core flow works.** **80%** understood the overall flow and **70%** were clear
-  on checkout completion — the foundation is solid; fixes are targeted, not structural.
+| Finding | Recommendation |
+|---|---|
+| Only **30%** clear when item was added; 5/10 flagged add-to-cart friction | Add visual confirmation (count badge, toast, or animation) on add |
+| **5/10** found food-bank verification confusing | Reduce steps; simplify copy so eligible students aren't deterred |
+| **3/10** found category labels unclear or wordy | Tighten category names; clearer icons |
+| **80%** understood the overall flow; **70%** clear on checkout | Core flow is solid — fixes are targeted, not structural |
 
 ---
 
@@ -103,15 +102,17 @@ counted across participants.
 .
 ├── README.md
 ├── requirements.txt
-├── usability_analysis.py        # cleaning + clarity + friction analysis
+├── usability_analysis.py               # cleaning · clarity · friction analysis
 ├── data/
-│   └── usability_all_data.csv   # raw survey responses (participant_id, question_text, answer_text)
-├── figures/
-│   ├── clarity_by_step.png      # generated by the script
-│   └── friction_areas.png       # generated by the script
-└── docs/
-    ├── demo_slides.pdf          # project demo deck
-    └── final_report.pdf         # full analysis notebook (exported)
+│   └── usability_all_data.csv          # raw survey responses
+├── docs/
+│   ├── Final report data analysis.ipynb   # full analysis notebook (renders on GitHub)
+│   ├── Final report data analysis.pdf     # exported notebook
+│   ├── demo_slides.pdf                    # project demo deck
+│   └── final_report.pdf
+└── figures/
+    ├── clarity_by_step.png             # generated by the script
+    └── friction_areas.png              # generated by the script
 ```
 
 ## How to run
@@ -119,9 +120,10 @@ counted across participants.
 ```bash
 pip install -r requirements.txt
 python usability_analysis.py
+# → prints summary stats and writes figures to ./figures/
 ```
 
-This prints the summary statistics and writes both figures to `figures/`.
+---
 
 ## Tech & skills
 
@@ -130,4 +132,4 @@ usability testing · mixed-methods analysis · qualitative coding · data-driven
 
 ---
 
-*UBC Human–Computer Interaction course project. Prototype built in Figma.*
+*UBC CPSC 344 — Introduction to Human Computer Interaction Methods*
